@@ -2,8 +2,8 @@
 
 <p align="center">A north-bluish, light <a href="https://iterm2.com">iTerm2</a> color scheme.</p>
 
-<p align="center">Based on *my interpretation* of the <a href="https://github.com/arcticicestudio/northem-light">Northem Light</a> color palette.<br>
-**This is not an official release**, but a temporary project while <a href="https://github.com/arcticicestudio/northem-light/issues/1">the official release is under development</a>.</p>
+<p align="center">Based on <em>my interpretation</em> of the <a href="https://github.com/arcticicestudio/northem-light">Northem Light</a> color palette.<br>
+<strong>This is not an official release</strong>, but a temporary project while <a href="https://github.com/arcticicestudio/northem-light/issues/1">the official release is under development</a>.</p>
 
 ---
 
@@ -21,5 +21,4 @@
   3. Select the *Colors* tabs on the right side
   4. Select an existing profile from the profile list window on the left or create a new profile
   5. Click on the *Load Presets* drop-down menu and select `Personal Northem Light`
-
-[scrot-readme-activation]: https://raw.githubusercontent.com/arcticicestudio/nord-iterm2/develop/src/assets/scrot-readme-activation.png
+  
